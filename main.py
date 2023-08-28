@@ -16,7 +16,7 @@ spotsList = pd.read_csv('./data/spot_list/random_spotsList.csv')
 getTime = '1 年前'
 wrong = []
 
-for index, row in spotsList[105:120].iterrows():
+for index, row in spotsList[40:100].iterrows():
     print(row['name'])
     # =====================================================
     # Google 爬蟲
@@ -114,7 +114,7 @@ for index, row in spotsList[105:120].iterrows():
             })
             if existing_data is None:
                 attraction_db.attractionInfo.insert_one(place_detail_data)
-                print(f"{index}：{place_detail_data['name']}：已新增")
+                print(f"{index+2}：{place_detail_data['name']}：已新增")
         except Exception as e:
             print(f"錯誤訊息：{e}")
             wrong.append({"name":row['name'],"url":row['google_url'],"type":"can't insert spots data"})
