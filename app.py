@@ -13,8 +13,8 @@ import re
 import os
 
 # 定義名稱與URL
-name = "淡水老街"
-url = "https://www.google.com/maps/place/%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97/data=!4m7!3m6!1s0x3442a55860ccfd91:0xa40c1b50cf3e21c5!8m2!3d25.168927!4d121.4440921!16s%2Fg%2F11bzs506yn!19sChIJkf3MYFilQjQRxSE-z1AbDKQ?authuser=0&hl=zh-TW&rclk=1"
+name = "林口．樂活公園｜捷運主題公園"
+url = "https://www.google.com/maps/place/%E6%9E%97%E5%8F%A3%EF%BC%8E%E6%A8%82%E6%B4%BB%E5%85%AC%E5%9C%92%2F%E6%8D%B7%E9%81%8B%E4%B8%BB%E9%A1%8C%E5%85%AC%E5%9C%92/data=!4m7!3m6!1s0x3442a71f7c3f417d:0xebcdf6fe58a7e2de!8m2!3d25.0669884!4d121.3763157!16s%2Fg%2F11c30s7ph_!19sChIJfUE_fB-nQjQR3uKnWP72zes?authuser=0&hl=zh-TW&rclk=1"
 getTime = '1 年前'
 wrong = []
 
@@ -112,8 +112,4 @@ try:
 except:
     wrong.append({"name":name,"url":url,"type":"can't google place detail"})
 
-try:
-    print(wrong)
-    with open("./data/warn/googleWrong.json", "w", encoding="utf8") as f:json.dump(wrong, f, indenWt=2, sort_keys=True, ensure_ascii=False)
-except:
-    print('無輸出錯誤檔 warn')
+print(wrong)
