@@ -13,8 +13,8 @@ import re
 import os
 
 # 定義名稱與URL
-name = "淡水老街"
-url = "https://www.google.com/maps/place/%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97/data=!4m7!3m6!1s0x3442a55860ccfd91:0xa40c1b50cf3e21c5!8m2!3d25.168927!4d121.4440921!16s%2Fg%2F11bzs506yn!19sChIJkf3MYFilQjQRxSE-z1AbDKQ?authuser=0&hl=zh-TW&rclk=1"
+name = "後壁湖"
+url = "https://www.google.com/maps/place/%E5%BE%8C%E5%A3%81%E6%B9%96/data=!4m7!3m6!1s0x3471b03f3a25a1a1:0x814368594db2532a!8m2!3d21.9450657!4d120.7446706!16s%2Fg%2F1tl9kb0h!19sChIJoaElOj-wcTQRKlOyTVloQ4E?authuser=0&hl=zh-TW&rclk=1"
 getTime = '1 年前'
 wrong = []
 

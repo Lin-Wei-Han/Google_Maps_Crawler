@@ -16,7 +16,7 @@ spotsList = pd.read_csv('./data/spot_list/random_spotsList.csv')
 getTime = '1 年前'
 wrong = []
 
-for index, row in spotsList[40:100].iterrows():
+for index, row in spotsList[300:1000].iterrows():
     print(row['name'])
     # =====================================================
     # Google 爬蟲
