@@ -16,7 +16,7 @@ spotsList = pd.read_csv('./data/spot_list/spotsList_clean.csv')
 getTime = '1 年前'
 wrong = []
 
-for index, row in spotsList[91:95].iterrows():
+for index, row in spotsList[300:500].iterrows():
     print(row['name'])
     # =====================================================
     # Google 爬蟲
@@ -98,31 +98,8 @@ for index, row in spotsList[91:95].iterrows():
             wrong.append({"name":row['name'],"url":row['google_url'],"type":"ckip"})
             print('發生錯誤')
             continue
+    print(f"{index+2}：{row['name']}：已輸出tfidf")
 
-    # =====================================================
-    # 取得詳細景點資訊
-    # =====================================================
-    try:
-        place_detail_data = Google().get_place_info(row['name'],row['google_url'],tag_value)
-        place_detail_data = json.loads(place_detail_data)
-        try:
-            existing_data = attraction_db.attractionInfo.find_one({
-                "$or": [
-                    {"place_id": place_detail_data["place_id"]},
-                    {"id": place_detail_data["id"]}
-                ]
-            })
-            if existing_data is None:
-                attraction_db.attractionInfo.insert_one(place_detail_data)
-                print(f"{index+2}：{place_detail_data['name']}：已新增")
-        except Exception as e:
-            print(f"錯誤訊息：{e}")
-            wrong.append({"name":row['name'],"url":row['google_url'],"type":"can't insert spots data"})
-            continue
-    except Exception as e:
-        print(f"錯誤訊息：{e}")
-        wrong.append({"name":row['name'],"url":row['google_url'],"type":"can't google place detail"})
-        continue
     
 
 
