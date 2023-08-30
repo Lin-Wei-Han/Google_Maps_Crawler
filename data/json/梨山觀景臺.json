@@ -1,0 +1,422 @@
+[
+  {
+    "content": "風景很棒",
+    "name": "Gary Chiu",
+    "setTime": "2 天前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "朝政黄",
+    "setTime": "1 週前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "陳裕銘",
+    "setTime": "1 個月前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "張照宏",
+    "setTime": "2 個月前",
+    "star": 5
+  },
+  {
+    "content": "清晨被日出的光線照射到。整個很幸福。夜衝後簡單車宿的好地方。遊客中心旁的繡球花也很美",
+    "name": "Liao Wesley",
+    "setTime": "2 個月前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "LP 10KG",
+    "setTime": "2 個月前",
+    "star": 4
+  },
+  {
+    "content": "",
+    "name": "李鴻恩",
+    "setTime": "3 個月前",
+    "star": 5
+  },
+  {
+    "content": "風景好",
+    "name": "王老先生",
+    "setTime": "4 個月前",
+    "star": 5
+  },
+  {
+    "content": "第一次到訪，真的遠而美",
+    "name": "劉民添",
+    "setTime": "5 個月前",
+    "star": 5
+  },
+  {
+    "content": "非常適合旅行的地方",
+    "name": "Wei A",
+    "setTime": "5 個月前",
+    "star": 4
+  },
+  {
+    "content": "",
+    "name": "bill LAU",
+    "setTime": "5 個月前",
+    "star": 3
+  },
+  {
+    "content": "山景好風光 好舒服 好寧靜的感覺",
+    "name": "chih feng",
+    "setTime": "5 個月前",
+    "star": 5
+  },
+  {
+    "content": "美美的風景，廁所太臭了",
+    "name": "David Cheng",
+    "setTime": "5 個月前",
+    "star": 3
+  },
+  {
+    "content": "無敵山景，景色超讚，希望有一天可以來梨山隱居，但願將來美夢成真",
+    "name": "陳慧如",
+    "setTime": "6 個月前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "許家瑋",
+    "setTime": "6 個月前",
+    "star": 5
+  },
+  {
+    "content": "看風景絕佳處\n有客運站牌 廁所 水果攤販\n\n遇上特別節日活動\n還能一飽眼福",
+    "name": "ss Qiu",
+    "setTime": "7 個月前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "蔡正欽",
+    "setTime": "7 個月前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "Zhou Jinrong",
+    "setTime": "8 個月前",
+    "star": 5
+  },
+  {
+    "content": "漂亮！早上一定要來看看美景！",
+    "name": "Clio Lin",
+    "setTime": "9 個月前",
+    "star": 5
+  },
+  {
+    "content": "風景還好，可是為何＜螥蠅＞會哪麼多？",
+    "name": "溫怎佑",
+    "setTime": "10 個月前",
+    "star": 2
+  },
+  {
+    "content": "到此一遊",
+    "name": "阿奇奇",
+    "setTime": "10 個月前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "雪橇下的梨子",
+    "setTime": "11 個月前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "Chi YA",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "景觀很棒！",
+    "name": "施Wilson",
+    "setTime": "1 年前",
+    "star": 4
+  },
+  {
+    "content": "原公路局梨山站改建而成的觀景平台，視野遼闊，遠方三千公尺群山盡收眼底，給人放鬆身心之感",
+    "name": "Pkhkc Deel",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "黃昏的時候真的很美\n遠處的房子、山和雲連接成像一幅美美的畫\n夏天也涼涼的不會很熱，甚至有點涼",
+    "name": "Madeline Wang",
+    "setTime": "1 年前",
+    "star": 4
+  },
+  {
+    "content": "好停車，景色不錯，還有攤販市集可以買蜜蘋果、蘋果乾等。\n公廁需要爬樓梯走下一層。\n\n對面有郵局和全家便利商店。",
+    "name": "Stacy",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "梨山觀景台：寬闊！景深真美",
+    "name": "Fen Chen",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "林子暘",
+    "setTime": "1 年前",
+    "star": 3
+  },
+  {
+    "content": "風景秀麗",
+    "name": "邱介甫",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "觀景台位於遊客中心的下方  視野遼闊 景色優美",
+    "name": "張國祥",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "在梨山觀景檯燈飾相伴的美麗夜晚",
+    "name": "Gunawan Marcid",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "李佩蓉",
+    "setTime": "1 年前",
+    "star": 4
+  },
+  {
+    "content": "",
+    "name": "longyu lin",
+    "setTime": "1 年前",
+    "star": 3
+  },
+  {
+    "content": "",
+    "name": "呈協謝",
+    "setTime": "1 年前",
+    "star": 4
+  },
+  {
+    "content": "",
+    "name": "Kevin Chen",
+    "setTime": "1 年前",
+    "star": 4
+  },
+  {
+    "content": "住清境早上要去福壽山賞楓暫停，順便買當地當令特產水果，現採高麗菜拿起來在滴汁跟平地完全不同，剛好蜜蘋果大出可以買到大顆，吃起來較鮮甜多汁，大蜜梨上等的在平地一顆三百多元我們買不到百元，洗一洗車上二個人吃一顆大蜜梨就飽飽了。",
+    "name": "陳B俊裕",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "雪山山脈全覽",
+    "name": "Thomas Huang",
+    "setTime": "1 年前",
+    "star": 4
+  },
+  {
+    "content": "景色優美，匆匆路過，停留一會，使用公廁，甚為可惜。",
+    "name": "Arvin Liny",
+    "setTime": "1 年前",
+    "star": 4
+  },
+  {
+    "content": "",
+    "name": "Wen Wen",
+    "setTime": "1 年前",
+    "star": 4
+  },
+  {
+    "content": "視野開闊的景點",
+    "name": "小陳",
+    "setTime": "1 年前",
+    "star": 4
+  },
+  {
+    "content": "美",
+    "name": "江戶川柯南",
+    "setTime": "1 年前",
+    "star": 4
+  },
+  {
+    "content": "視野很棒的觀景台，可以遠眺環山部落、志佳陽山、雪山、劍山等，而且旁邊有一些藝術裝置可供搭配拍照，下方還有用草做成的梨山字樣，後方就是美麗的梨山賓館，總之高海拔，視野舒適度都相當好，而且觀景台就在路邊，有來不妨下車走走拍拍照囉！喜歡～",
+    "name": "陳宜東",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "壯觀美麗的山景",
+    "name": "Cindy",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "林育舟",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "Glen E",
+    "setTime": "1 年前",
+    "star": 5
+  },
+  {
+    "content": "建議如果要拍到美麗的「梨山」字樣，最好是在早上10:00～下午2:00，此時不會被樹蔭遮到，也不會受到山區午後陰雨的影響。\n旁邊有許多賣梨子的攤商，基本上都可以試吃，梨子很大一顆，口感脆、甜度夠、整個果子充滿汁液，真的很不錯吃！",
+    "name": "温淑君",
+    "setTime": "2 年前",
+    "star": 5
+  },
+  {
+    "content": "梨山觀景台就位於梨山遊客中心的下方，橫貫公路的路邊，右側有一排賣農產品、水果的攤商，從觀景台向前眺望可以看到海拔3000多公尺的劍山、佳陽山、大劍山、雪山、桃山、國父峰等群山氣勢雄偉，遙望環山部落、思源埡口景致也相當美麗，尤其是晨曦、傍晚、雨後時分是觀賞的最佳時機！\n由於地處高海拔地區天候變化快速，外套禦寒衣物不可少，觀景台邊還有一個❤️型的藝術裝置，是情侶們拍照留念的好景點，觀景台上也有解說牌，上面有群山的圖示，明顯的標示群山的名稱，觀景之後橫越馬路時須特別留意雙向來車以策安全！",
+    "name": "lh k",
+    "setTime": "2 年前",
+    "star": 4
+  },
+  {
+    "content": "風景優美，水果之鄉，交通要道，往右宜蘭，往左谷關，往下大禹嶺。",
+    "name": "小奧小迪",
+    "setTime": "2 年前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "Rain Fish",
+    "setTime": "2 年前",
+    "star": 4
+  },
+  {
+    "content": "旅行的回憶....單車、機車、畢旅、環島^_^。想不透，年輕的自己，那來的體力騎上武嶺。年輕不試看看，中年就沒體力玩了！",
+    "name": "Han-hsiang Chang",
+    "setTime": "2 年前",
+    "star": 3
+  },
+  {
+    "content": "",
+    "name": "Yu Chi Chen",
+    "setTime": "2 年前",
+    "star": 3
+  },
+  {
+    "content": "展望極佳\n可看遍雪山稜線山巒之美",
+    "name": "陳修賢",
+    "setTime": "2 年前",
+    "star": 5
+  },
+  {
+    "content": "觀景台的景色普通，大概就是看著各各山頭的過度開發罷了。底下的徒步區反而比較好玩。只是部分設置缺少養護，略有損壞。",
+    "name": "高等遊民",
+    "setTime": "2 年前",
+    "star": 4
+  },
+  {
+    "content": "打卡好景點",
+    "name": "Vicky Chen",
+    "setTime": "2 年前",
+    "star": 4
+  },
+  {
+    "content": "好風景，山中美食集中在此附近",
+    "name": "荻原拓也",
+    "setTime": "2 年前",
+    "star": 4
+  },
+  {
+    "content": "可以看風景的地方\n不過覺得還好",
+    "name": "C.H KUO",
+    "setTime": "2 年前",
+    "star": 4
+  },
+  {
+    "content": "美不勝收，遼闊！就是被路旁的惡劣攤商破壞了風景，賣的全是假的壞的水果！",
+    "name": "Michelle Wang",
+    "setTime": "2 年前",
+    "star": 4
+  },
+  {
+    "content": "視野極佳，可以鳥瞰整個梨山風光。",
+    "name": "ERIC LIN",
+    "setTime": "2 年前",
+    "star": 4
+  },
+  {
+    "content": "晨間山嵐飄渺\n午後突然的雲霧繚繞\n不同的時間、天氣的變化\n不同的迷人風情",
+    "name": "哈利不是波特",
+    "setTime": "2 年前",
+    "star": 5
+  },
+  {
+    "content": "可以遠眺山景與果園，不過一眼望去多是果園與農舍，原始景色少了很多，覺得比較可惜了些。\n\n洗手間就在觀景台下方，附近的馬路邊一整排水果街。\n\n假日附近的停車位一位難求，若是能在非假日來訪，更能享受悠閒輕鬆自在的時光。",
+    "name": "游明俊",
+    "setTime": "2 年前",
+    "star": 4
+  },
+  {
+    "content": "這是很美的關觀景台，視野很美，值得停下欣賞風景。",
+    "name": "巫協森",
+    "setTime": "2 年前",
+    "star": 5
+  },
+  {
+    "content": "這裡可以遍覽群峰，逐一點名，視野又絕佳的一處觀景平台。",
+    "name": "TAI HAO CHEN",
+    "setTime": "2 年前",
+    "star": 5
+  },
+  {
+    "content": "可以看到遠處的山景\n風景優美\n20201124\n這次時間比較趕\n希望下次可以慢慢逛",
+    "name": "林怡伶",
+    "setTime": "2 年前",
+    "star": 5
+  },
+  {
+    "content": "楓葉和槭樹葉都已轉紅\n假日遊客很多",
+    "name": "黃懌博",
+    "setTime": "2 年前",
+    "star": 4
+  },
+  {
+    "content": "風景秀麗",
+    "name": "李唯祺（wiki）",
+    "setTime": "2 年前",
+    "star": 4
+  },
+  {
+    "content": "台版天空之城，美呆了~~",
+    "name": "伍拍郎",
+    "setTime": "2 年前",
+    "star": 5
+  },
+  {
+    "content": "打卡的坐標~~",
+    "name": "Yingjie Guo",
+    "setTime": "2 年前",
+    "star": 5
+  },
+  {
+    "content": "很棒的視野平台",
+    "name": "MICHAEL HSU",
+    "setTime": "2 年前",
+    "star": 5
+  },
+  {
+    "content": "",
+    "name": "Richie Chen",
+    "setTime": "2 年前",
+    "star": 5
+  }
+]
