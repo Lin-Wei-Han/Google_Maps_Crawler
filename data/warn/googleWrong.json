@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "王功舜哥（觀光採蚵/摸蛤/探索潮間帶）",
+    "type": "can't write csv",
+    "url": "https://www.google.com/maps/place/%E7%8E%8B%E5%8A%9F%E8%88%9C%E5%93%A5%EF%BC%88%E8%A7%80%E5%85%89%E6%8E%A1%E8%9A%B5%2F%E6%91%B8%E8%9B%A4%2F%E6%8E%A2%E7%B4%A2%E6%BD%AE%E9%96%93%E5%B8%B6%EF%BC%89/data=!4m7!3m6!1s0x3469537fd621167d:0xb41066a6c1510838!8m2!3d23.968996!4d120.3261528!16s%2Fg%2F11sytr_gh5!19sChIJfRYh1n9TaTQROAhRwaZmELQ?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "媽祖宮九塊厝生態園區（漁夫體驗/預約制）",
+    "type": "can't write csv",
+    "url": "https://www.google.com/maps/place/%E5%AA%BD%E7%A5%96%E5%AE%AE%E4%B9%9D%E5%A1%8A%E5%8E%9D%E7%94%9F%E6%85%8B%E5%9C%92%E5%8D%80%EF%BC%88%E6%BC%81%E5%A4%AB%E9%AB%94%E9%A9%97%2F%E9%A0%90%E7%B4%84%E5%88%B6%EF%BC%89/data=!4m7!3m6!1s0x346dd8585a84127f:0x8638c6f0f038e5a6!8m2!3d23.042506!4d120.1277972!16s%2Fg%2F11fy7c50d0!19sChIJfxKEWljYbTQRpuU48PDGOIY?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "Golden shower lane",
+    "type": "spider",
+    "url": "https://www.google.com/maps/place/Golden+shower+lane/data=!4m7!3m6!1s0x34694b531027ccd1:0xe99ba34a8a532f3c!8m2!3d23.8651085!4d120.4880634!16s%2Fg%2F11v0q0rf77!19sChIJ0cwnEFNLaTQRPC9Tikqjm-k?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "建功嶼",
+    "type": "spider",
+    "url": "https://www.google.com/maps/chplace/%E5%BB%BA%E5%8A%9F%E5%B6%BC/data=!4m7!3m6!1s0x3414a20a71ed3573:0xf5d9a7ab8b21dc03!8m2!3d24.4274351!4d118.300075!16s%2Fm%2F012gbr33!19sChIJczXtcQqiFDQRA9whi6un2fU?authuser=0&hl=zh-TW&rclk=1"
+  }
+]
