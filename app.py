@@ -13,8 +13,8 @@ import re
 import os
 
 # 定義名稱與URL
-name = "富竹賞鳥埤塘"
-url = "https://www.google.com/maps/place/%E5%A4%A9%E6%98%8E%E8%A3%BD%E8%97%A5%E8%BE%B2%E7%A7%91%E8%A7%80%E5%85%89%E8%97%A5%E5%BB%A0+%E5%B1%8F%E6%9D%B1%E6%99%AF%E9%BB%9E+%7C+%E5%85%8D%E9%96%80%E7%A5%A8+%7C+%E5%85%8D%E8%B2%BB%E5%81%9C%E8%BB%8A+%7C+%E9%AB%94%E9%A9%97DIY/data=!4m7!3m6!1s0x346e3d8da39f84f5:0x863e56e5ab6f2a97!8m2!3d22.7137571!4d120.5372152!16s%2Fg%2F1pzxdfxmn!19sChIJ9YSfo409bjQRlypvq-VWPoY?authuser=0&hl=zh-TW&rclk=1"
+name = "中山堂"
+url = "https://www.google.com/maps/place/%E4%B8%AD%E5%B1%B1%E5%A0%82/data=!4m7!3m6!1s0x3442a90ba2befa61:0xa1bd95bfff71ee4f!8m2!3d25.04319!4d121.5096789!16s%2Fg%2F11c1q7wl4m!19sChIJYfq-ogupQjQRT-5x_7-VvaE?authuser=0&hl=zh-TW&rclk=1"
 getTime = '1 年前'
 wrong = []
 
@@ -96,6 +96,7 @@ if os.path.exists('./data/csv/{}.csv'.format(name)):
 try:
     place_detail_data = Google().get_place_info(name,url,tag_value)
     place_detail_data = json.loads(place_detail_data)
+    print(place_detail_data)
     try:
         existing_data = attraction_db.attractionInfo.find_one({
             "$or": [
@@ -103,6 +104,7 @@ try:
                 {"id": place_detail_data["id"]}
             ]
         })
+        print(existing_data['name'])
         if existing_data is None:
             attraction_db.attractionInfo.insert_one(place_detail_data)
             print(f"{place_detail_data['name']}：已新增")

@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "name": "中山堂",
+    "type": "spider",
+    "url": "https://www.google.com/maps/place/%E4%B8%AD%E5%B1%B1%E5%A0%82/data=!4m7!3m6!1s0x3442a90ba2befa61:0xa1bd95bfff71ee4f!8m2!3d25.04319!4d121.5096789!16s%2Fg%2F11c1q7wl4m!19sChIJYfq-ogupQjQRT-5x_7-VvaE?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "雪霧鬧橋（雪霧鬧曲流觀景點）",
+    "type": "spider",
+    "url": "https://www.google.com/maps/place/%E9%9B%AA%E9%9C%A7%E9%AC%A7%E6%A9%8B%EF%BC%88%E9%9B%AA%E9%9C%A7%E9%AC%A7%E6%9B%B2%E6%B5%81%E8%A7%80%E6%99%AF%E9%BB%9E%EF%BC%89/data=!4m7!3m6!1s0x346813878cd3917b:0x9eb8fc8c2e90a3a1!8m2!3d24.7448135!4d121.3546733!16s%2Fg%2F11fy4dqy40!19sChIJe5HTjIcTaDQRoaOQLoz8uJ4?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "後壁俗女村",
+    "type": "spider",
+    "url": "https://www.google.com/maps/place/%E5%BE%8C%E5%A3%81%E4%BF%97%E5%A5%B3%E6%9D%91/data=!4m7!3m6!1s0x346e859c4070f5c7:0xaeb7408510f73444!8m2!3d23.3796652!4d120.3358788!16s%2Fg%2F11rckycqmz!19sChIJx_VwQJyFbjQRRDT3EIVAt64?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "昶慶休閒農園",
+    "type": "spider",
+    "url": "https://www.google.com/maps/place/%E6%98%B6%E6%85%B6%E4%BC%91%E9%96%92%E8%BE%B2%E5%9C%92/data=!4m7!3m6!1s0x346fcc16483731cf:0x614424b90689799b!8m2!3d22.6265426!4d120.9720096!16s%2Fg%2F1tdgml63!19sChIJzzE3SBbMbzQRm3mJBrkkRGE?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "丹林瀑布群",
+    "type": "spider",
+    "url": "https://www.google.com/maps/place/%E4%B8%B9%E6%9E%97%E7%80%91%E5%B8%83%E7%BE%A4/data=!4m7!3m6!1s0x346e2779ec16f611:0xecdd9ace729bb00a!8m2!3d22.5250539!4d120.6610481!16s%2Fg%2F11g4dmrjll!19sChIJEfYW7HknbjQRCrCbcs6a3ew?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "錦園洗衣亭 田邊俱樂部",
+    "type": "can't write csv",
+    "url": "https://www.google.com/maps/place/%E9%8C%A6%E5%9C%92%E6%B4%97%E8%A1%A3%E4%BA%AD+%7C+%E7%94%B0%E9%82%8A%E4%BF%B1%E6%A8%82%E9%83%A8/data=!4m7!3m6!1s0x346f0b7e6914ba6b:0xb2880b58b8977275!8m2!3d23.1032433!4d121.2208482!16s%2Fg%2F12hljfhjn!19sChIJa7oUaX4LbzQRdXKXuFgLiLI?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "頭份崖線客家生活區",
+    "type": "spider",
+    "url": "https://www.google.com/maps/place/%E9%A0%AD%E4%BB%BD%E5%B4%96%E7%B7%9A%E5%AE%A2%E5%AE%B6%E7%94%9F%E6%B4%BB%E5%8D%80/data=!4m7!3m6!1s0x34684d4f3d80fe5f:0x127ffce500a092f9!8m2!3d24.7029095!4d120.9189411!16s%2Fg%2F11sbf71b3p!19sChIJX_6APU9NaDQR-ZKgAOX8fxI?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "時雨瀑布 彩虹瀑布",
+    "type": "can't write csv",
+    "url": "https://www.google.com/maps/place/%E6%99%82%E9%9B%A8%E7%80%91%E5%B8%83+%7C+%E5%BD%A9%E8%99%B9%E7%80%91%E5%B8%83/data=!4m7!3m6!1s0x3468a49c3fbca657:0xc9e3f42c66055a76!8m2!3d23.89588!4d121.4755!16s%2Fg%2F11bvt4mth9!19sChIJV6a8P5ykaDQRdloFZiz048k?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "秋娥姐農場",
+    "type": "spider",
+    "url": "https://www.google.com/maps/place/%E7%A7%8B%E5%A8%A5%E5%A7%90%E8%BE%B2%E5%A0%B4/data=!4m7!3m6!1s0x34683bd6c5d02a19:0x1d6371c744db03e9!8m2!3d24.913252!4d121.089133!16s%2Fg%2F11svh1tbx6!19sChIJGSrQxdY7aDQR6QPbRMdxYx0?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "天使花園休閒農場/戶外婚禮/歐風餐廳",
+    "type": "can't write csv",
+    "url": "https://www.google.com/maps/place/%E5%A4%A9%E4%BD%BF%E8%8A%B1%E5%9C%92%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4%2F%E6%88%B6%E5%A4%96%E5%A9%9A%E7%A6%AE%2F%E6%AD%90%E9%A2%A8%E9%A4%90%E5%BB%B3/data=!4m7!3m6!1s0x346e1f4c5ee2cf63:0xb07a037e7f1bc53a!8m2!3d22.5646603!4d120.5136412!16s%2Fg%2F11cjkmrh43!19sChIJY8_iXkwfbjQROsUbf34DerA?authuser=0&hl=zh-TW&rclk=1"
+  },
+  {
+    "name": "合凱休閒教育農園",
+    "type": "spider",
+    "url": "https://www.google.com/maps/place/%E5%90%88%E5%87%B1%E4%BC%91%E9%96%92%E6%95%99%E8%82%B2%E8%BE%B2%E5%9C%92/data=!4m7!3m6!1s0x346e6f683e6124a9:0xedecd76d9abc42b7!8m2!3d23.0220018!4d120.353736!16s%2Fg%2F11ty6xhzp4!19sChIJqSRhPmhvbjQRt0K8mm3X7O0?authuser=0&hl=zh-TW&rclk=1"
+  }
+]
