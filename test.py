@@ -4,12 +4,12 @@ import pandas as pd
 import os
 
 
-directory = './TopicFinal'
+directory = './TopicFilter'
 
 for file in os.listdir(directory):
     data = {}
     topic_name = os.path.splitext(file)[0]
-    with open(f'./TopicFinal/{file}', "r", encoding="utf-8") as file:
+    with open(f'./TopicFilter/{file}', "r", encoding="utf-8") as file:
         data['topic'] = topic_name
         data['topic_tag'] = [line.strip() for line in file]
         data['type'] = "景點"

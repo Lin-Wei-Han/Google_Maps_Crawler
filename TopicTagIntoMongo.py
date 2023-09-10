@@ -2,11 +2,11 @@ from mongo import attraction_db
 import os
 
 topics_dict = {}
-directory = './TopicFinal'
+directory = './TopicFilter'
 
 for file in os.listdir(directory):
     topic_name = os.path.splitext(file)[0]
-    with open(f'./TopicFinal/{file}', "r", encoding="utf-8") as file:
+    with open(f'./TopicFilter/{file}', "r", encoding="utf-8") as file:
         topics_dict[topic_name] = [line.strip() for line in file]
 
 # 設定條件，主題必須匹配至少5個標籤才能存入文件的 "topic" 欄位
@@ -15,7 +15,7 @@ min_tags_required = 1
 results = attraction_db.attractionInfo.find()
 filtered_results = [result for result in results if len(result.get("topic", [])) <= 3]
 
-# attraction_db.attractionInfo.find(query)
+# attraction_db.attractionInfo.find()
 for document in filtered_results:
     tags = document.get("tag", [])
 
